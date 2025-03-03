@@ -1,1 +1,8 @@
 node_modules
+.next/cache
+.next/trace
+.next/build-static-cache
+.next/build-manifest
+.next/cache
+.next/trace
+.next/build-static-cache
