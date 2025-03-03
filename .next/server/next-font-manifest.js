@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/zeynepozdem/Desktop/tkui-guide/src/app/layout\":[\"static/media/3534416bbfdcc9be-s.p.woff2\",\"static/media/a9b61b60c2d733b4-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

@@ -17,7 +17,7 @@ export const footerDetails: {
         },
         {
             text: "Faqs",
-            url: "#faqs"
+            url: "#faq"
         }
     ],
     email: 'WEBFRONTENDTEAM@THY.COM',
